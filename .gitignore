@@ -1,0 +1,7 @@
+.metadata/
+Servers/
+RemoteSystemsTempFiles/
+target/
+.settings/
+build/
+.project
