@@ -27,7 +27,7 @@ This project has some dependencies:
 Note that the necessary queues and connection factories are set up for you in the context.xml files.
 
 # Running JMS-Example
-It's recommended that you run each project in a separate browser (for example, utilizing Windows splitscreen mode).
+It's recommended that you run each project in a separate browser window (for example, utilizing Windows splitscreen mode).
 
 Start your Apache Tomcat server and navigate to: 
 - [localhost:8080/controller/](http://localhost:8080/controller/)
